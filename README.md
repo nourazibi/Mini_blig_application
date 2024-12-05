@@ -1,1 +1,1 @@
-# Mini_blig_application
+# Mini_blog_application
